@@ -5,11 +5,11 @@ Seria uma média geral simples bimestral na matéria de história, na qual o alu
 ***
 
 
-## Tecnologias utilizadas:
+### Tecnologias utilizadas:
 * **back-end:** Python 3.15
 
 ***
-## Como me encontrar
+#### Como me encontrar
 
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:momeiramikah@gmail.com)](mailto:momeiramikah@gmail.com)
 
